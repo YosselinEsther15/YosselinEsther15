@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yosselin👋
+I'm an undergraduate **Mathematics major with a Data Science concentration** and a **Computer Science minor**. I love turning abstract ideas into clear visuals, models, and explanations.
 
-<!--
-**YosselinEsther15/YosselinEsther15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm working on 
+- Building math + data science projects that are easy to understand and reuse
+- Improving my LaTeX and technical presentation workflow
+- Creating a portfolio that blends rigor with clean design
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & tools 
+- **Languages:** Python, R, LaTeX, SQL, Java (adjust to what you use) 
+- **Math & data:** NumPy, pandas, scikit-learn, RStudio, MATLAB/Octave
+- **Other:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured interests 
+- Mathematical modeling and linear algebra
+- Visual, audience-friendly technical communication
+- Building modern, polished academic and project portfolios
+
+## 🌱 Outside of code 
+- I enjoy baking, reading, and kitting.
+
