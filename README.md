@@ -7,7 +7,7 @@ I'm an undergraduate **Mathematics major with a Data Science concentration** and
 - Creating a portfolio that blends rigor with clean design
 
 # Technologies & tools 
-- **Languages:** Python, R, LaTeX, SQL, Java (adjust to what you use) 
+- **Languages:** Python, R, LaTeX, Java
 - **Math & data:** NumPy, pandas, scikit-learn, RStudio, MATLAB/Octave
 - **Other:** Git, GitHub, VS Code
 
@@ -17,5 +17,5 @@ I'm an undergraduate **Mathematics major with a Data Science concentration** and
 - Building modern, polished academic and project portfolios
 
 # Outside of code 
-- I enjoy baking, reading, and kitting.
+- I enjoy baking, reading, and knitting.
 
